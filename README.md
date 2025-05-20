@@ -23,4 +23,4 @@ This project analyzes the Superstore dataset to:
    git clone https://github.com/MK7234/Superstore-Analysis.git
    cd Superstore-Analysis
    pip install -r requirements.txt# Superstore-Analysis
-"Sales prediction and customer segmentation using RFM and XGBoost"
+
