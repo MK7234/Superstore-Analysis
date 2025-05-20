@@ -23,4 +23,18 @@ This project analyzes the Superstore dataset to:
    git clone https://github.com/MK7234/Superstore-Analysis.git
    cd Superstore-Analysis
    pip install -r requirements.txt# Superstore-Analysis
+ **2.** Run Jupyter notebooks in order:
+
+   1_Data_Cleaning_EDA.ipynb
+
+   2_RFM_Segmentation.ipynb
+
+   3_Sales_Prediction_XGBoost.ipynb
+
+**🔍 Key Insights**
+Top Customers: 20% of customers drive 80% of revenue.
+
+Sales Drivers: Technology products and bulk orders.
+
+Model Performance: RMSE of $48.90 (53% of average sales).
 
